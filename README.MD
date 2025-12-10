@@ -13,8 +13,8 @@ Script en Python para migrar playlists automáticamente desde Spotify hacia Tida
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/spotify-to-tidal-migrator.git](https://github.com/TU_USUARIO/spotify-to-tidal-migrator.git)
-    cd spotify-to-tidal-migrator
+    git clone [https://github.com/Rderokha/py-playlists.git](https://github.com/Rderokha/py-playlists.git)
+    cd py-playlists
     ```
 
 2.  Crea un entorno virtual e instala las dependencias:
